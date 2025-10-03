@@ -1,4 +1,3 @@
-import Footer from "../components/Footer";
 import Header from "../components/Header";
 
 const Document = () => {
@@ -8,7 +7,6 @@ const Document = () => {
             <div className="h-[100vh]">
                 document
             </div>
-            <Footer />
         </>
     )
 }
